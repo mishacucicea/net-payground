@@ -1,2 +1,2 @@
-# net-payground
-.NET Playground a ground up showcase web application
+# net-playground
+A ground up showcase web application using .NET MVC, Web API, and many more.
